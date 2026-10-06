@@ -1,0 +1,6 @@
+interface:
+  display_name: "X 日语回复助手"
+  short_description: "先找值得回复的帖子，再把你的中文观点整理成自然日语短回复"
+  default_prompt: "用 $x-reply-operator 找值得回复的话题，或把我选中的帖子和观点整理成日语回复。"
+policy:
+  allow_implicit_invocation: true
